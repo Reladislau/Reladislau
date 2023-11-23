@@ -1,8 +1,10 @@
-# 👋 Hello! Welcome to my Github profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Navegando+pelo+vasto+oceano+do+desenvolvimento+de+software.+Sou+%5BSeu+Nome%5D%2C+onde+a+curiosidade+encontra+o+c%C3%B3digo.)](https://git.io/typing-svg)
+
+<div align="center"></div>
 
 ## Ferramentas e Tecnologias
 
-<div>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>          
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> 
 </div>
