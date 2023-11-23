@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Navegando+pelo+vasto+oceano+do+desenvolvimento+de+software.+Sou+%5BSeu+Nome%5D%2C+onde+a+curiosidade+encontra+o+c%C3%B3digo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=1000&center=true&vCenter=true&random=false&width=457&lines=Navegando+pelo+vasto+oceano+do+desenvolvimento;Prazer%2C+sou+Renan+Ladislau!)](https://git.io/typing-svg)
+
 
 <div align="center"></div>
 
