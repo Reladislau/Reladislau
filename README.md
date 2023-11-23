@@ -1,17 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=1000&center=true&vCenter=true&random=false&width=457&lines=Navegando+pelo+vasto+oceano+do+desenvolvimento;Prazer%2C+sou+Renan+Ladislau!)](https://git.io/typing-svg)
+
+<div align="center" >
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&pause=1000&color=F7AE22&center=true&vCenter=true&random=false&width=435&lines=Construindo+o+futuro%2C+C%C3%B3digo+por+c%C3%B3digo)](https://git.io/typing-svg)
 
 
-<div align="center"></div>
 
-## Ferramentas e Tecnologias
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>          
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> 
 </div>
 
 
-<div>
+
+
+## Linguagens e Tecnologias em Constante aprendizado
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" />                  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70"/>
+          
+</div>
+
+##
+<br><br><br>
+
+<div align="center">
 <a href="https://github.com/Reladislau">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reladislau&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Reladislau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
