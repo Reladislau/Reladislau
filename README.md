@@ -55,3 +55,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Reladislau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/Reladislau/Reladislau/output/snake.svg" alt="Snake animation" />
+
+###
