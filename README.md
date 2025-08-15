@@ -1,6 +1,6 @@
 <h1> 🖥️​ Renan Ladislau de Sousa 🖥️​ </h1>
 
-<table>
+<table border="0" cellspacing="0">
 <tr>
 <td>
 
