@@ -3,7 +3,9 @@
 
 <div style= "display:flex; flex-direction:row; justify-content: space-evenly; align-items: center;">
 
+<p align="center">
 <img src="Frase.svg" width="350px" align="right" alt="notebook code">
+</p>
 
 <h3>
 - Software Developer ⌨️ </br>
