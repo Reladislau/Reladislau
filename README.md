@@ -2,6 +2,11 @@
 
 
 <div style= "display:flex; flex-direction:row; justify-content: space-evenly; align-items: center;">
+<div style="width: 20em">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&pause=1000&color=F7AE22&center=true&vCenter=true&random=false&width=435&lines=Construindo+o+futuro%2C+C%C3%B3digo+por+c%C3%B3digo)](https://git.io/typing-svg)
+</div>
+
 
 <h3>
 - Software Developer ⌨️ </br>
@@ -12,10 +17,7 @@
 - Trabalho atualmente na Vivo 💜
 </h3>
 
-<div style="width: 20em">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&pause=1000&color=F7AE22&center=true&vCenter=true&random=false&width=435&lines=Construindo+o+futuro%2C+C%C3%B3digo+por+c%C3%B3digo)](https://git.io/typing-svg)
-</div>
 </div>
 
 ## 🚀 SOBRE MIM:
@@ -34,9 +36,9 @@
 
 
 ## 📫 COMO ENTRAR EM CONATO COMIGO?
-- Vamos conversar? Me chame e eu vou adorar trocar ideias contigo
+<h3>Vamos conversar? Me chame e eu vou adorar trocar ideias contigo. </br>
 
-<div align="center">
+<div style="margin-top: 25px" align="center">
 
 <a href = "mailto:renanladislau9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renanladislau/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
