@@ -1,7 +1,7 @@
 <h1> 🖥️​ Renan Ladislau de Sousa 🖥️​ </h1>
 
 
-<div style= "display:flex; flex-direction:row; justify-content: space-around; align-items: center;">
+<div style= "display:flex; flex-direction:row; justify-content: space-evenly; align-items: center;">
 
 <h3>
 - Software Developer ⌨️ </br>
@@ -12,14 +12,14 @@
 - Trabalho atualmente na Vivo 💜
 </h3>
 
-<div style="width: 40vw">
+<div style="width: 20em">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&pause=1000&color=F7AE22&center=true&vCenter=true&random=false&width=435&lines=Construindo+o+futuro%2C+C%C3%B3digo+por+c%C3%B3digo)](https://git.io/typing-svg)
 </div>
 </div>
 
 ## 🚀 SOBRE MIM:
-<p> Sou <span style="color: #12CC88">Renan Ladislau</span>, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, com formação em Programação Web Java pelo Senac SP. Atualmente, atuo como estagiário e Software Developer na Vivo, contribuindo para projetos de software focados em eficiência, acessibilidade e inovação. </p>
+<p> Sou <strong><span style="color: #12CC88">Renan Ladislau</span></strong>, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, com formação em Programação Web Java pelo Senac SP. Atualmente, atuo como estagiário e Software Developer na Vivo, contribuindo para projetos de software focados em eficiência, acessibilidade e inovação. </p>
 
 <p>Estou sempre aberto a trocar ideias, conhecer novos projetos e criar soluções que impactem positivamente**.  
 
@@ -28,36 +28,19 @@
 ## 🛠 HABILIDADES EM CONSTANTE APRENDIZADO:
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" />                  
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70"/>
-
-          
-          
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,mysql,java,nodejs,python,git,github,gitlab,figma" />
 </div>
 
-## Ferramentas que eu utilizo
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="70" height="70"/>
-          
-          
-          
 
-</div>
-<br><br>
-
-## VAMOS CONVERSAR?
+## 📫 COMO ENTRAR EM CONATO COMIGO?
+- Vamos conversar? Me chame e eu vou adorar trocar ideias contigo
 
 <div align="center">
 
 <a href = "mailto:renanladislau9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renanladislau/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/re_ladislaus/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 </div>
 </br></br>
