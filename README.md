@@ -16,11 +16,6 @@
 - Trabalho atualmente na Vivo 💜
 </h3>
 
-
-
-
-
-
 </div>
 
 ## 🚀 SOBRE MIM:
@@ -39,7 +34,7 @@
 
 
 ## 📫 COMO ENTRAR EM CONATO COMIGO?
-<h3>Vamos conversar? Me chame e eu vou adorar trocar ideias contigo. </br>
+<h3>Vamos conversar? Me chame e eu vou adorar trocar ideias contigo. </br></br>
 
 <div style="margin-top: 25px" align="center">
 
@@ -51,7 +46,7 @@
 </br></br>
 
 
-<div style="display:flex; flex-direction:row; justify-content: space-around">
+<div style="display:flex; flex-direction:row; justify-content: space-around" align="center">
 <a href="https://github.com/Reladislau">
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reladislau&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=Reladislau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
