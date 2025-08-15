@@ -14,7 +14,7 @@
 
 
 
-<img src="frase.svg" align="right" width="350px">
+<img src="Frase.svg" align="right" width="350px">
 
 
 </div>
