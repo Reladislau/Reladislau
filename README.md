@@ -2,7 +2,7 @@
 
 
 <div style= "display:flex; flex-direction:row; justify-content: space-evenly; align-items: center;">
-<div style="width: 20em">
+<div style="width: 20em; float:right;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&pause=1000&color=F7AE22&center=true&vCenter=true&random=false&width=435&lines=Construindo+o+futuro%2C+C%C3%B3digo+por+c%C3%B3digo)](https://git.io/typing-svg)
 </div>
