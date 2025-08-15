@@ -3,6 +3,8 @@
 
 <div style= "display:flex; flex-direction:row; justify-content: space-evenly; align-items: center;">
 
+<img src="Frase.svg" width="350px" align="right" alt="notebook code">
+
 <h3>
 - Software Developer ⌨️ </br>
 - Granduando em ADS - IFSP ​📒​ </br>
@@ -14,7 +16,7 @@
 
 
 
-<img src="Frase.svg" align="right" width="350px">
+
 
 
 </div>
