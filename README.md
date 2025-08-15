@@ -1,27 +1,23 @@
 <h1> 🖥️​ Renan Ladislau de Sousa 🖥️​ </h1>
 
-<table border="0" cellspacing="0">
-<tr>
-<td>
+
+<div style= "display:flex; flex-direction:row; justify-content: space-evenly; align-items: center;">
 
 <h3>
-- Software Developer ⌨️ <br>
-- Graduando em ADS - IFSP 📒 <br>
-- Formado no Instituto Proa ⛵ <br>
-- Apaixonado por Tecnologia 🧑🏻‍💻 <br>
-- Fascinado em Música 🎵 <br>
+- Software Developer ⌨️ </br>
+- Granduando em ADS - IFSP ​📒​ </br>
+- Formado no Instituto Proa ⛵ </br>
+- Apaixonado em Inovação e Tecnologia ​🧑🏻‍💻</br>
+- Fascinado em Música 🎵 </br>
 - Trabalho atualmente na Vivo 💜
 </h3>
 
-</td>
-<td>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&pause=1000&color=F7AE22&center=true&vCenter=true&random=false&width=435&lines=Construindo+o+futuro%2C+C%C3%B3digo+por+c%C3%B3digo)](https://git.io/typing-svg)
 
-</td>
-</tr>
-</table>
+<img src="frase.svg" align="right" width="350px">
 
+
+</div>
 
 ## 🚀 SOBRE MIM:
 <p> Sou <strong><span style="color: #12CC88">Renan Ladislau</span></strong>, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, com formação em Programação Web Java pelo Senac SP. Atualmente, atuo como estagiário e Software Developer na Vivo, contribuindo para projetos de software focados em eficiência, acessibilidade e inovação. </p>
