@@ -13,7 +13,7 @@
 - Formado no Instituto Proa ⛵ </br>
 - Apaixonado em Inovação e Tecnologia ​🧑🏻‍💻</br>
 - Fascinado em Música 🎵 </br>
-- Trabalho atualmente na Vivo 💜
+- Trabalho atualmente na Vivo 💜 </br>
 - Yellow Belt Capacitado - Lean Six Sigma 🎗️
 </h3>
 
