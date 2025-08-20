@@ -22,7 +22,7 @@
 ## 🚀 SOBRE MIM:
 <p> Sou <strong><span style="color: #12CC88">Renan Ladislau</span></strong>, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo, com formação em Programação Web Java pelo Senac SP. Atualmente, atuo como estagiário e Software Developer na Vivo, contribuindo para projetos de software focados em eficiência, acessibilidade e inovação. </p>
 
-<p>Estou sempre aberto a trocar ideias, conhecer novos projetos e criar soluções que impactem positivamente**.  
+<p>Estou sempre aberto a trocar ideias, conhecer novos projetos e criar soluções que impactem positivamente.  
 
 📌 <strong>"Não existe transformação sem aprendizado e conhecimento." – Aristóteles</P>
 
