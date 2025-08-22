@@ -28,7 +28,7 @@
 ## 🛠 HABILIDADES EM CONSTANTE APRENDIZADO:
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,mysql,java,nodejs,python,git,github,gitlab,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,mysql,java,spring,nodejs,python,git,github,gitlab,figma" />
 </div>
 
 
